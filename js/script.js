@@ -1,1 +1,5 @@
-console.log('hello there friends');
+
+var doCoolStuff = function(){
+	document.getElementById('cool').className = 'cool red';
+
+	}
